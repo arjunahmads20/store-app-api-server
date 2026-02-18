@@ -1,0 +1,2 @@
+The buy price of the product is only accessable via the ProductSerializer, 
+the ComprehensiveProductSerializer will only return the sell price.
